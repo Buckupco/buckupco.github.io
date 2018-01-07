@@ -1,0 +1,51 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/inline.4d875920ef940c88a8f8.bundle.js",
+        "/main.3119cc99aee2ac539358.bundle.js",
+        "/polyfills.61df7d7ec492d95bb0b2.bundle.js",
+        "/styles.d41d8cd98f00b204e980.bundle.css"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/buckup128.png",
+        "/assets/icons/buckup144.png",
+        "/assets/icons/buckup152.png",
+        "/assets/icons/buckup192.png",
+        "/assets/icons/buckup256.png",
+        "/assets/icons/buckup512.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/inline.4d875920ef940c88a8f8.bundle.js": "cc5753059590a7ad87d7ebe0fe40f4fa08d69129",
+    "/assets/icons/buckup128.png": "6c24ca426de7bb8cea1f605652922f848267168a",
+    "/main.3119cc99aee2ac539358.bundle.js": "91950cb22a18f315c0401d756292fe8928ed03fa",
+    "/assets/icons/buckup144.png": "911bb01a5b1a207138097f35056070f02a6bf250",
+    "/polyfills.61df7d7ec492d95bb0b2.bundle.js": "ff1216348b48e80e4e810b0f7b785cb69647895a",
+    "/assets/icons/buckup152.png": "61e61b2355e8e5ad71dbfb94cf7c814d6dce91b7",
+    "/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/icons/buckup192.png": "49213c2810fd02493be8561d5d73c84a62cb26df",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/assets/icons/buckup256.png": "0cc3c3bb3c16b1397c0772121e866778b240c399",
+    "/index.html": "bf5fd3907c643865744aff8cae72b4aa014028d0",
+    "/assets/icons/buckup512.png": "7ce6538b79103dae415d19c4ffebd75c4a0645cd"
+  }
+}
